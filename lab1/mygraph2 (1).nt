@@ -1,0 +1,20 @@
+<http://example.org/ns/446_UBO3950831> <http://example.org/props/composer> <http://example.org/ns/Nino_Rota> .
+<http://example.org/ns/446_UBO3950831> <http://example.org/props/duration> "30073"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/446_UBO3950831> <http://example.org/props/publisher> <http://example.org/ns/Warner_Music> .
+<http://example.org/ns/Nino_Rota> <http://example.org/props/dateofbirth> "1911-12-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/Nino_Rota> <http://example.org/props/dateofdeath> "1979-04-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_MIL0882053> <http://example.org/props/title> "Messa_da_requiem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/446_MIL0882053> <http://example.org/props/duration> "30073"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/446_MIL0882053> <http://example.org/props/composer> <http://example.org/ns/Giuseppe_Verdi>.
+<http://example.org/ns/446_MIL0882053> <http://example.org/props/publisher> <http://example.org/ns/Sony_Music_Entertainment>.
+<http://example.org/ns/Giuseppe_Verdi> <http://example.org/props/dateofbirth> "1813-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/Giuseppe_Verdi> <http://example.org/props/dateofdeath> "1901-01-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/496_MIL0877607> <http://example.org/props/publisher> <http://example.org/ns/Sony_Music_Entertainment>.
+<http://example.org/ns/496_MIL0877607> <http://example.org/props/composer> <http://example.org/ns/Giuseppe_Verdi>.
+<http://example.org/ns/496_MIL0877607> <http://example.org/props/title> "Aida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/496_MIL0873549> <http://example.org/props/publisher> <http://example.org/ns/Warner_Music>.
+<http://example.org/ns/496_MIL0873549> <http://example.org/props/composer> <http://example.org/ns/Ludwig_van_Beethoven>.
+
+
+
+ 
